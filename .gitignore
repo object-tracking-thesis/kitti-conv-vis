@@ -1,4 +1,4 @@
 build/*
-kitti/*
-pcd/*
+kitti/*.bin
+pcd/*.pcd
 *~*
